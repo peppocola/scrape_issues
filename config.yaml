@@ -1,0 +1,11 @@
+output_dir: issues
+access_token: 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
+projects:
+  - https://github.com/nasa/cFE
+  - https://github.com/nasa/osal
+  - https://github.com/nasa/SC
+  - https://github.com/nasa/CS
+  - https://github.com/nasa/CF
+  - https://github.com/nasa/PSP
+  - https://github.com/nasa/elf2cfetbl
+  - https://github.com/nasa/cFS
