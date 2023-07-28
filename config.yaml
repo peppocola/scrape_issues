@@ -1,5 +1,5 @@
 output_dir: issues
-access_token: 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
+access_token: YOUR_ACCESS_TOKEN
 projects:
   - https://github.com/nasa/cFE
   - https://github.com/nasa/osal
